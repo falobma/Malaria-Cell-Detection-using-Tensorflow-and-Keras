@@ -5,6 +5,6 @@ the Dataset is from : https://www.kaggle.com/iarunava/cell-images-for-detecting-
 The Dataset itself contain 27558 cell images.
 in this program I'm using keras sequential with softmax activation output layer rather than sigmoid one. 
 
-from the dataset I devide 90% of the data for training and 10% for testing 
+from the dataset I devide 90% of the data for training and 10% for testing. \n
 Hope you can learn one or two thing from this program ! 
 Cheers ! 
